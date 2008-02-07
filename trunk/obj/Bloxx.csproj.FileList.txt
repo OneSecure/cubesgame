@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bloxx.Properties.Resources.resources
+obj\Debug\Bloxx.csproj.GenerateResource.Cache
+bin\Debug\Bloxx.exe
+bin\Debug\Bloxx.pdb
+obj\Debug\Bloxx.exe
+obj\Debug\Bloxx.pdb
+obj\Debug\Bloxx.MainForm.resources
