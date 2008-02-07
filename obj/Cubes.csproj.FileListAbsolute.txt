@@ -1,0 +1,17 @@
+J:\Cubes\bin\Debug\Cubes.exe
+J:\Cubes\bin\Debug\Cubes.pdb
+J:\Cubes\obj\Debug\ResolveAssemblyReference.cache
+J:\Cubes\obj\Debug\Cubes.MainForm.resources
+J:\Cubes\obj\Debug\Cubes.Properties.Resources.resources
+J:\Cubes\obj\Debug\Cubes.csproj.GenerateResource.Cache
+J:\Cubes\obj\Debug\Cubes.exe
+J:\Cubes\obj\Debug\Cubes.pdb
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\obj\Debug\Cubes.MainForm.resources
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\obj\Debug\Cubes.Properties.Resources.resources
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\obj\Debug\Cubes.csproj.GenerateResource.Cache
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\bin\Debug\Cubes.exe
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\bin\Debug\Cubes.pdb
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\obj\Debug\Cubes.exe
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\obj\Debug\Cubes.pdb
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\bin\Debug\clsFileLib.dll

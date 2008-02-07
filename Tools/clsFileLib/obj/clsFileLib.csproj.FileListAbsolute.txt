@@ -1,0 +1,8 @@
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\bin\Debug\clsFileLib.dll
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\bin\Debug\clsFileLib.pdb
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\obj\Debug\clsFileLib.dll
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\obj\Debug\clsFileLib.pdb
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\bin\Release\clsFileLib.dll
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\Cubes_SVN\trunk\Tools\clsFileLib\obj\Release\clsFileLib.dll
